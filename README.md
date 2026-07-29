@@ -10,10 +10,12 @@ The project implements a two-step framework to evaluate whether super-resolution
 ---
 
 ## 📁 Project Structure
-├── Step_one.ipynb # Step 1: Non-SR change detection (LightGBM, XGBoost, generalization tests)
-├── Step_two.ipynb # Step 2: SR-based change detection (Real-ESRGAN, EDSR, metrics comparison)
-├── requirements.txt # All dependencies
-└── README.md # This file
+
+```bash
+├── Step_one.ipynb         # Step 1: Non-SR change detection (LightGBM, XGBoost, generalization tests)
+├── Step_two.ipynb         # Step 2: SR-based change detection (Real-ESRGAN, EDSR, metrics comparison)
+├── requirements.txt       # All dependencies
+└── README.md              # This file
 ---
 
 ## 🔧 Requirements
