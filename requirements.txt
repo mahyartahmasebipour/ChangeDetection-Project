@@ -1,0 +1,12 @@
+numpy
+pandas
+opencv-python
+rasterio
+scikit-learn
+xgboost
+lightgbm
+imbalanced-learn
+mahotas
+matplotlib
+scipy
+scikit-image
