@@ -57,8 +57,16 @@ LightGBM	Non-SR	0.84	0.43
 LightGBM	Real-ESRGAN	0.78	0.055
 LightGBM	EDSR	0.75	0.05
 XGBoost	Real-ESRGAN	0.56	0.032
-📁 Outputs
-All outputs (prediction maps, feature importance plots, confusion matrices, metrics) are generated within the notebooks and can be saved to the outputs/ folder.
+## 📁 Outputs
+
+Key output figures are available in the `outputs/` folder:
+
+- `Figure_10_NonSR_Results.png` — Change detection results for Non-SR approach
+- `Figure_11_RealESRGAN_Results.png` — Change detection results for Real-ESRGAN
+- `Figure_12_EDSR_Results.png` — Change detection results for EDSR
+- `Figure_13_FeatureImportance_RealESRGAN.png` — Top features for LightGBM with Real-ESRGAN
+- `Figure_14_FeatureImportance_EDSR.png` — Top features for LightGBM with EDSR
+- `Figure_15_PR_Curve.png` — Precision-Recall curve for threshold optimization
 📄 Citation
 If you use this code, please cite the accompanying paper once published.
 For now, please refer to this repository and the author's GitHub page.
