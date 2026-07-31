@@ -1,6 +1,6 @@
 # Urban Change Detection with Sentinel-2: A Two-Step Machine Learning Framework
 This repository contains the complete code for the paper:
-> "Evaluating the Impact of Super-Resolution on Urban Change Detection: A Two-Step Machine Learning Framework Using Sentinel-2, LightGBM, and XGBoost"
+> "Evaluating the Impact of RGB Super-Resolution on Sentinel-2 Urban Change Detection Using a Two-Stage Machine Learning Framework"
 The project implements a two-step framework to evaluate whether super-resolution techniques (Real-ESRGAN and EDSR) can improve urban change detection using Sentinel-2 imagery.
 ---
 ## 🧠 Key Findings
