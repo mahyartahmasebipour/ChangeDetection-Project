@@ -75,6 +75,11 @@ For now, please refer to this repository and the author's GitHub page.
 BSc Student in Geomatics Engineering  
 K.N. Toosi University of Technology, Tehran, Iran  
 [GitHub](https://github.com/mahyartahmasebipour) • [Email](m.tahmasebi2@email.kntu.ac.ir)
+**Elahe Khesali** (Supervisor)  
+Department of Remote Sensing, Faculty of Geodesy and Geomatics Engineering  
+K.N. Toosi University of Technology, Tehran, Iran  
+[Email](mailto:elahe.khesali@kntu.ac.ir)
+**Correspondence:** elahe.khesali@kntu.ac.ir
 MIT License
 Copyright (c) 2025 Mahyar Tahmasebipour
 Permission is hereby granted, free of charge, to any person obtaining a copy
