@@ -86,8 +86,8 @@ K.N. Toosi University of Technology, Tehran, Iran
 **Elahe Khesali** (Supervisor)  
 Department of Remote Sensing, Faculty of Geodesy and Geomatics Engineering  
 K.N. Toosi University of Technology, Tehran, Iran  
-[Email](mailto:elahe.khesali@kntu.ac.ir)
-**Correspondence:** elahe.khesali@kntu.ac.ir
+[Email](mailto:khesali@kntu.ac.ir)
+**Correspondence:** khesali@kntu.ac.ir
 MIT License
 Copyright (c) 2025 Mahyar Tahmasebipour
 Permission is hereby granted, free of charge, to any person obtaining a copy
