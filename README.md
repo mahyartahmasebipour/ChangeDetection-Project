@@ -24,13 +24,21 @@ Install all dependencies with:
 
 ```bash
 pip install -r requirements.txt
-Main libraries used:
-numpy, pandas
-opencv-python, rasterio
-scikit-learn, xgboost, lightgbm
-imbalanced-learn (SMOTE)
-mahotas (Haralick texture features)
-matplotlib, scipy, scikit-image
+```
+
+Main libraries:
+
+- numpy
+- pandas
+- rasterio
+- opencv-python
+- scikit-learn
+- xgboost
+- lightgbm
+- imbalanced-learn
+- mahotas
+- scipy
+- scikit-image
 🚀 How to Run
 Step 1: Non-SR Change Detection
 Open and run Step_one.ipynb in Jupyter Notebook or Google Colab.
