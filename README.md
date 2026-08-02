@@ -16,7 +16,8 @@ The project implements a two-step framework to evaluate whether super-resolution
 ├── Step_two.ipynb         # Step 2: SR-based change detection (Real-ESRGAN, EDSR, metrics comparison)
 ├── requirements.txt       # All dependencies
 └── README.md              # This file
----
+```
+
 
 ## 🔧 Requirements
 
@@ -38,8 +39,10 @@ Main libraries:
 - imbalanced-learn
 - mahotas
 - scipy
-- scikit-image
-🚀 How to Run
+- scikit-image 
+---
+
+## 🚀 How to Run
 Step 1: Non-SR Change Detection
 Open and run Step_one.ipynb in Jupyter Notebook or Google Colab.
 This notebook includes:
@@ -53,7 +56,9 @@ Non-SR RGB baseline
 Real-ESRGAN and EDSR super-resolution
 Model training and evaluation
 Boundary IoU and Hausdorff distance metrics
-📊 Results Summary
+---
+
+## 📊 Results Summary
 Step 1: Non-SR Change Detection
 City	Model	F1-Score	Kappa
 Abu Dhabi (Train)	LightGBM	0.84	0.83
@@ -75,14 +80,18 @@ Key output figures are available in the `outputs/` folder:
 - `Figure_13_FeatureImportance_RealESRGAN.png` — Top features for LightGBM with Real-ESRGAN
 - `Figure_14_FeatureImportance_EDSR.png` — Top features for LightGBM with EDSR
 - `Figure_15_PR_Curve.png` — Precision-Recall curve for threshold optimization
-📄 Citation
+---
+
+## 📄 Citation
 If you use this code, please cite the accompanying paper once published.
 For now, please refer to this repository and the author's GitHub page.
-👤 Author
+---
+
+## 👤 Author
 **Mahyar Tahmasebipour**  
 BSc Student in Geomatics Engineering  
 K.N. Toosi University of Technology, Tehran, Iran  
-[GitHub](https://github.com/mahyartahmasebipour) • [Email](m.tahmasebi2@email.kntu.ac.ir)
+[GitHub](https://github.com/mahyartahmasebipour) • [Email](mailto:m.tahmasebi2@email.kntu.ac.ir)
 **Elahe Khesali** (Supervisor)  
 Department of Remote Sensing, Faculty of Geodesy and Geomatics Engineering  
 K.N. Toosi University of Technology, Tehran, Iran  
